@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Open space &#8211; Photo &#8211; Bai</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Bai Pai&#039;s Photography</description>
+	<lastBuildDate>Wed, 19 Feb 2020 14:29:55 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.5</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2017/10/cropped-cropped-site-01-1-32x32.png</url>
+	<title>Open space &#8211; Photo &#8211; Bai</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Nap</title>
+		<link>./../../../work/nap/index.html</link>
+				<pubDate>Wed, 19 Feb 2020 01:12:23 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11049</guid>
+				<description><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/DSC_0360-1-800x535.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/DSC_0360-1-800x535.jpg 800w, ./../../../wp-content/uploads/2017/09/DSC_0360-1-768x514.jpg 768w, ./../../../wp-content/uploads/2017/09/DSC_0360-1.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Nap open space Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/DSC_0360-1-800x535.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/DSC_0360-1-800x535.jpg 800w, ./../../../wp-content/uploads/2017/09/DSC_0360-1-768x514.jpg 768w, ./../../../wp-content/uploads/2017/09/DSC_0360-1.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Nap open space Back To All]]></content:encoded>
+										</item>
+		<item>
+		<title>Side</title>
+		<link>./../../../work/side/index.html</link>
+				<pubDate>Wed, 19 Feb 2020 01:09:22 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11047</guid>
+				<description><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A1170-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A1170-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A1170-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A1170.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Side open space Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A1170-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A1170-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A1170-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A1170.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Side open space Back To All]]></content:encoded>
+										</item>
+		<item>
+		<title>Street O</title>
+		<link>./../../../work/street-o/index.html</link>
+				<pubDate>Tue, 18 Feb 2020 14:56:20 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11037</guid>
+				<description><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A1664-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A1664-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A1664-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A1664.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Street O open space Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A1664-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A1664-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A1664-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A1664.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Street O open space Back To All]]></content:encoded>
+										</item>
+		<item>
+		<title>Bike</title>
+		<link>./../../../work/bike/index.html</link>
+				<pubDate>Tue, 18 Feb 2020 12:23:56 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11034</guid>
+				<description><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A5517-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A5517-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A5517-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A5517.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Bike open space &nbsp; &nbsp; Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A5517-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A5517-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A5517-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A5517.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Bike open space &nbsp; &nbsp; Back To All]]></content:encoded>
+										</item>
+		<item>
+		<title>Street</title>
+		<link>./../../../work/street/index.html</link>
+				<pubDate>Tue, 18 Feb 2020 12:21:43 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11033</guid>
+				<description><![CDATA[<p><img width="600" height="398" src="./../../../wp-content/uploads/2017/09/bai015-800x530.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/bai015-800x530.jpg 800w, ./../../../wp-content/uploads/2017/09/bai015-768x508.jpg 768w, ./../../../wp-content/uploads/2017/09/bai015-1200x794.jpg 1200w" sizes="(max-width: 600px) 100vw, 600px" /></p>Street open space Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="398" src="./../../../wp-content/uploads/2017/09/bai015-800x530.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/bai015-800x530.jpg 800w, ./../../../wp-content/uploads/2017/09/bai015-768x508.jpg 768w, ./../../../wp-content/uploads/2017/09/bai015-1200x794.jpg 1200w" sizes="(max-width: 600px) 100vw, 600px" /></p>Street open space Back To All]]></content:encoded>
+										</item>
+		<item>
+		<title>Activity</title>
+		<link>./../../../work/activity/index.html</link>
+				<pubDate>Tue, 18 Feb 2020 12:14:13 +0000</pubDate>
+		<dc:creator><![CDATA[photobai]]></dc:creator>
+		
+		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=work&#038;p=11032</guid>
+				<description><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A3656-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A3656-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A3656-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A3656.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Activity open space Back To All]]></description>
+								<content:encoded><![CDATA[<p><img width="600" height="401" src="./../../../wp-content/uploads/2017/09/117A3656-800x534.jpg" class="attachment-medium size-medium wp-post-image" alt="" srcset="./../../../wp-content/uploads/2017/09/117A3656-800x534.jpg 800w, ./../../../wp-content/uploads/2017/09/117A3656-768x512.jpg 768w, ./../../../wp-content/uploads/2017/09/117A3656.jpg 1000w" sizes="(max-width: 600px) 100vw, 600px" /></p>Activity open space Back To All]]></content:encoded>
+										</item>
+	</channel>
+</rss>
